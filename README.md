@@ -1,6 +1,3 @@
-# CS50 Introduction to Computer Science
-
-Welcome to the world of computer science through the lens of **CS50 Introduction to Computer Science**! This repository serves as a guide and resource hub for anyone interested in embarking on a journey of discovery into the fascinating realm of programming, algorithms, and problem-solving.
 
 ## About CS50
 
